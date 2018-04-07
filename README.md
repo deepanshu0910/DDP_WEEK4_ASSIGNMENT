@@ -1,23 +1,25 @@
 # Developing-Data-Product_WEEK4_ASSIGNMENT
 Assignment Submission Files
 
-    * ui.R
-    * server.R
-    * README.md
+    ui.R
+    server.R
+    README.md
 
 Instructions
 
-    Clone the code using 'git clone https://github.com/rwstang/Developing-Data-Products-Assignment.git YOURDIRECTORY'
+    Step1) Clone the code using 'git clone https://github.com/rwstang/Developing-Data-Products-Assignment.git YOURDIRECTORY'
 
-    Load your RStudio
+    Step2) Load your RStudio
 
-    Set your working directory to YOURDIRECTORY using setwd("YOURDIRECTORY")
+    Step3) Set your working directory to YOURDIRECTORY using setwd("YOURDIRECTORY")
 
-    Load the Shiny library using library(shiny)
+    Step4) Load the Shiny library using library(shiny)
+    
+    Step5) Load the UsingR library using library(UsingR)
 
-    Run the application using runApp()
+    Step6) Run the application using runApp()
 
-    You will see the application in a browser. Follow the instructions to use the application.
+    Step7) You will see the application in a browser.
 
 Dependencies
 
