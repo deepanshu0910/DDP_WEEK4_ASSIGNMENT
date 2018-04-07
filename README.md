@@ -7,7 +7,7 @@ Assignment Submission Files
 
 Instructions
 
-    Step1) Clone the code using 'git clone https://github.com/rwstang/Developing-Data-Products-Assignment.git YOURDIRECTORY'
+    Step1) Clone the code using 'git clone https://github.com/deepanshu0910/DDP_WEEK4_ASSIGNMENT.git YOURDIRECTORY'
 
     Step2) Load your RStudio
 
@@ -25,7 +25,3 @@ Dependencies
 
     1. Shiny library
     2. UsingR library
-
-More Information
-
-The application is deployed on ShinyApps.io at https://raymondwstang.shinyapps.io/assignment/.
